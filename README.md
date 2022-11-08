@@ -1,5 +1,3 @@
-# Dan Forbes
-
 This document contains information about its author, Dan Forbes :nerd_face:
 
 I am a technology enthusiast who is passionate about supporting others with similar interests :handshake: I love
